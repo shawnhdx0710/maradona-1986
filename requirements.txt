@@ -1,0 +1,6 @@
+jupyter
+matplotlib
+mplsoccer
+numpy
+pandas
+requests
